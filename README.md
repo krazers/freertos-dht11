@@ -1,6 +1,12 @@
+## FreeRTOS connecting to DHT11 on ESP32
+
+This code works with a DHT11 to publish temperature and humidity from a DHT11 to AWS IoT. Currently the code to extract data from the DHT11 is in aws_greengrass_discovery.c
+
+This code needs to be added to aws_hello_world.c if greengrass will not be used.
+
 ## Getting Started
 
-For more information on Amazon FreeRTOS, refer to the [Getting Started section of Amazon FreeRTOS webpage](https://aws.amazon.com/freertos).
+or more information on Amazon FreeRTOS, refer to the [Getting Started section of Amazon FreeRTOS webpage](https://aws.amazon.com/freertos).
 
 To directly access the **Getting Started Guide** for supported hardware platforms, click the corresponding link in the Supported Hardware section below.
 
