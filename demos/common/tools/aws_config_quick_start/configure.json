@@ -1,0 +1,6 @@
+{
+    "thing_name":"esp32temp",
+    "wifi_ssid":"GL_AP",
+    "wifi_password":"awsrocks",
+    "wifi_security":"eWiFiSecurityWPA2"
+}
